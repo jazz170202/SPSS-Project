@@ -5,7 +5,7 @@ This project analyzes caffeine consumption patterns among university students an
 
 **Key points:**
 - **Sample size:** 100 students (49 males, 51 females)
-- **Data collection method:** Questionnaire via Google Forms(17 questions)
+- **Data collection method:** Questionnaire via Google Forms (17 questions)
 - **Research period:** 14.10.2024 – 16.10.2024
 
 ## 🛠 Tools and Methods
